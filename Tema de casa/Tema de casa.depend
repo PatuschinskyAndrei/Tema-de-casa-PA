@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716565157 source:f:\infoo\temele mele\tema de casa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
